@@ -1,0 +1,19 @@
+{
+    "Environment": {
+        "Opportunities in Clean Tech": 11.4,
+        "Carbon Emissions": 5.7,
+        "Water Stress": 1.9,
+        "Electronic Waste": 0.6,
+        "Toxic Emissions & Waste": 0.3
+    },
+
+    "Social": {
+        "Human Capital Development": 20.8,
+        "Privacy and Data Security": 12.3,
+        "Labor Management": 5.8
+    },
+
+    "Governance": {
+        "Governance": 41.2
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Environment": {
+        "Opportunities in Clean Tech": [
+            "renewable", "energy efficiency", "smart", "efficient", "efficiency", "cleantech", "green technologies", "energy-saving", 
+            "energy", "green", "technology"
+        ],
+        "Carbon Emissions": [
+            "Climate Risk", "low-carbon", "carbon", "carbon footprint", "footprint", "co2e", "co2", "decarbonization", "decarbonisation", 
+            "low-carbon", "GHG emissions", "GHG", "dioxide", "emissions", "emission", "climate", "Climate", "pollution"
+        ],
+        "Water Stress": [
+            "water", "Water", "water-related", "Water-related", "water-stress", "water-intensity", "aquatic", "Aquatic", "aqua", 
+            "aquatic", "wastewater"
+        ],
+        "Electronic Waste": [
+            "electronic waste", "e-waste", "dispose", "disposal", "waste", "electric"
+        ],
+        "Toxic Emissions & Waste": [
+            "toxic", "hazardous substances", "toxic waste", "hazardous waste", "chemical", "bio-hazard", "bio-waste", 
+            "hazardous", "chemicals"
+        ]
+    },
+
+    "Social": {
+        "Human Capital Development": [
+            "human management", "strengthening relationship", "investment", "productive", "human", "labor", "equity"
+        ],
+        "Privacy and Data Security": [
+            "data", "privacy", "security", "cyber", "digital-infrastructure", "personal", "protect", "individual", "information", 
+            "data-privacy-regulation", "sensitive", "minimal", "data security"
+        ],
+        "Labor Management": [
+            "welfare", "supply chain", "workplace", "workforce management", "safety", "management", "equality", "equal", "pay",
+            "salary", "allowance"
+        ]
+    },
+
+    "Governance": {
+        "Governance": [
+            "equity", "tax", "corruption", "transparency", "shareholder", "stakeholder", "board", "sovereign", "corporate-leadership", 
+            "stewardship", "ownership", "decision-making", "executives", "diversity", "equality", "policy-making", "governance", 
+            "corrupt", "equal", "accounting", "ethics", "control", "pay"
+        ]
+    },
+
+    "ESG phrases": [
+        "best-in-class", "carbon footprint", "carbon pricing", "clean technology", "engagement", "environmental factors", "esg integration", 
+        "ethical investing", "exclusions", "negative screening", "governance factors", "green bond", "greenwashing", "human rights", 
+        "impact investments", "modern slavery", "PRI", "proxy voting", "renewable energy", "screening", "social factors", "SRI", 
+        "stewardship", "thematic investing", "SDG", "values-based investing", "voting rights", "biodiversity", "carbon capture and storage", 
+        "circular economy", "climate action tracker", "climate clocks", "climate funds", "climate transition benchmarks", 
+        "greenhouse gas emissions", "net zero carbon pledge and initiative", "paris agreement", "paris-aligned benchmarks", 
+        "PFAS", "scope 1", "scope 2", "scope 3", "sdg funds", "sin stocks", "smart esg scores", "social sustainability", "stewardship code",
+        "stranded assets", "sustainable investing", "sustainability reporting", "sustainable supply chains", "sustainable technology", 
+        "thermal coal exposure", "triple bottom line", "un global impact", "green", "low-carbon"
+    ]
+}
+
+
+
+                
+                
